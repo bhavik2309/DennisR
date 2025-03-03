@@ -23,5 +23,6 @@ void Fahrenheittocelsius(){
                 printf("%3.0f\t    %6.1f\n", fahr, celsius);
                 fahr = fahr + step;//step up the value of fahrenheit   
 	}
+	//ok checking the comments
 }    
 
